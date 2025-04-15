@@ -18,7 +18,7 @@
 4. [License and Citation](https://github.com/ersilia-os/ersilia#license-and-citation)
 5. [About Us](https://github.com/ersilia-os/ersilia#about-us)
 
-## Project Description
+## Project Description [`⇧`](#table-of-contents)
 
 The [Ersilia Model Hub](https://ersilia.io) is a unified platform of pre-trained AI/ML models for 🦠 infectious and neglected disease research. Our mission is to offer an open-source, 🛠 low-code solution that provides seamless access to AI/ML models for 💊 drug discovery. Models housed in our hub come from two sources:
 
@@ -31,7 +31,7 @@ In Ersilia, you can find models related to antibiotic activity prediction, ADMET
 - For high-level documentation, check the [Ersilia Book](https://ersilia.gitbook.io/ersilia-book/)
 - For a low-level documentation for developers, see the [Ersilia API reference](https://ersilia-os.github.io/ersilia/)
 
-## Quick Start Guide
+## Quick Start Guide [`⇧`](#table-of-contents)
 
 ### Installation
 
@@ -130,7 +130,7 @@ Below is a list of the most important commands of the Ersilia CLI:
 
 Please see the a full reference of all commands available [here](https://ersilia.gitbook.io/ersilia-book/ersilia-model-hub/developer-docs/command-line-interface).
 
-## Contribute
+## Contribute [`⇧`](#table-of-contents)
 
 The Ersilia Model Hub is a free, open source software and we highly value new contributors. There are several ways in which you can contribute to the project:
 
@@ -148,7 +148,7 @@ If you want to incorporate a new model in the platform, open a new issue using t
 
 After submitting your model request via an issue (suggested), an Ersilia maintainer will review your request. If they approve your request, a new model respository will be created for you to fork and use following the [eos-template](https://github.com/ersilia-os/eos-template). There is a [demo repository](https://github.com/ersilia-os/eos-demo) explaining the steps one-by-one.
 
-## License and Citation
+## License and Citation [`⇧`](#table-of-contents)
 
 This repository is open sourced under the [GPL-3 License](https://github.com/ersilia-os/ersilia/blob/master/LICENSE).
 
@@ -181,7 +181,7 @@ In addition, our views on how the Ersilia Model Hub can be deployed effectively 
 
 To see a full list of all Ersilia publications, please visit [this link](https://www.ersilia.io/publications).
 
-## About Us
+## About Us [`⇧`](#table-of-contents)
 
 The [Ersilia Open Source Initiative](https://ersilia.io) is a tech non-profit organization with the mission to equip laboratories, universities, and clinics in the Global South with AI/ML tools for infectious disease research. We work on the principles of open science, decolonized research, and egalitarian access to knowledge and research outputs. You can support Ersilia by clicking [here](https://www.ersilia.io/donate).
 
